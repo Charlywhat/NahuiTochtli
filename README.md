@@ -1,5 +1,6 @@
 # NahuiTochtli
 Arcade / Action game built using Pygame
+Released under the GPL License (https://gnu.org/licenses/gpl.html).
 
 You play as NahuiTochtli, an aztec hero who must fight against spanish conquistadors
 in order to save Tenochtitlan and the Mexica Empire. You are not alone, aztec Gods are there to help you.
@@ -14,3 +15,8 @@ This is the first version of this game. I am no designer, so I know this game re
 In the next version, a friend of mine is going to help me out (He himself is a designer).
 
 BTW, I am no Python expert, so my code may have many terrible approaches. I apologize.
+
+
+To play it (Pygame is required), just run the NT.py file:
+
+python NT.py
