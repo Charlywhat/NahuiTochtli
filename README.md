@@ -12,9 +12,6 @@ Could you save all the codices before they are burned? Are you ready to fight ag
 
 NOTE:
 This is the first version of this game. I am no designer, so I know this game really needs a facelift.
-In the next version, a friend of mine is going to help me out (He himself is a designer).
-
-BTW, I am no Python expert, so my code may have many terrible approaches. I apologize.
 
 
 To play it (Pygame is required), just run the NT.py file:
